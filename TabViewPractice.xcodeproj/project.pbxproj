@@ -57,11 +57,8 @@
 		806702BC28E7333900823E0A /* TabViewPractice */ = {
 			isa = PBXGroup;
 			children = (
-				806702CF28E73A0300823E0A /* OtherView.swift */,
-				806702CD28E739CB00823E0A /* ThirdView.swift */,
-				806702CB28E7388B00823E0A /* SecondView.swift */,
+				806702D128E7552700823E0A /* Views */,
 				806702BD28E7333900823E0A /* TabViewPracticeApp.swift */,
-				806702BF28E7333900823E0A /* ContentView.swift */,
 				806702C128E7333E00823E0A /* Assets.xcassets */,
 				806702C328E7333E00823E0A /* Preview Content */,
 			);
@@ -74,6 +71,17 @@
 				806702C428E7333E00823E0A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		806702D128E7552700823E0A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				806702CF28E73A0300823E0A /* OtherView.swift */,
+				806702CD28E739CB00823E0A /* ThirdView.swift */,
+				806702CB28E7388B00823E0A /* SecondView.swift */,
+				806702BF28E7333900823E0A /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
